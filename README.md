@@ -1,2 +1,2 @@
-# react-keeper-app
-Created with CodeSandbox
+# Keeper App by React.js (Front-end)
+*Created with CodeSandbox*
